@@ -20,7 +20,7 @@ app.layout = dbc.Container(
 
 # MySQL database connection
 db_config = {
-    'host': 'localhost',
+    'host': 'mydatabase.cpghpon9delb.us-east-1.rds.amazonaws.com',
     'user': 'admin1',
     'password': 'amulya123',
     'database': 'employee',
